@@ -1,0 +1,15 @@
+S:\ComputerScience\dotnetcsharp\dotnet\BasicCalculator\bin\Debug\net9.0\BasicCalculator.exe
+S:\ComputerScience\dotnetcsharp\dotnet\BasicCalculator\bin\Debug\net9.0\BasicCalculator.deps.json
+S:\ComputerScience\dotnetcsharp\dotnet\BasicCalculator\bin\Debug\net9.0\BasicCalculator.runtimeconfig.json
+S:\ComputerScience\dotnetcsharp\dotnet\BasicCalculator\bin\Debug\net9.0\BasicCalculator.dll
+S:\ComputerScience\dotnetcsharp\dotnet\BasicCalculator\bin\Debug\net9.0\BasicCalculator.pdb
+S:\ComputerScience\dotnetcsharp\dotnet\BasicCalculator\obj\Debug\net9.0\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+S:\ComputerScience\dotnetcsharp\dotnet\BasicCalculator\obj\Debug\net9.0\BasicCalculator.AssemblyInfoInputs.cache
+S:\ComputerScience\dotnetcsharp\dotnet\BasicCalculator\obj\Debug\net9.0\BasicCalculator.AssemblyInfo.cs
+S:\ComputerScience\dotnetcsharp\dotnet\BasicCalculator\obj\Debug\net9.0\BasicCalculator.csproj.CoreCompileInputs.cache
+S:\ComputerScience\dotnetcsharp\dotnet\BasicCalculator\obj\Debug\net9.0\BasicCalculator.sourcelink.json
+S:\ComputerScience\dotnetcsharp\dotnet\BasicCalculator\obj\Debug\net9.0\BasicCalculator.dll
+S:\ComputerScience\dotnetcsharp\dotnet\BasicCalculator\obj\Debug\net9.0\refint\BasicCalculator.dll
+S:\ComputerScience\dotnetcsharp\dotnet\BasicCalculator\obj\Debug\net9.0\BasicCalculator.pdb
+S:\ComputerScience\dotnetcsharp\dotnet\BasicCalculator\obj\Debug\net9.0\BasicCalculator.genruntimeconfig.cache
+S:\ComputerScience\dotnetcsharp\dotnet\BasicCalculator\obj\Debug\net9.0\ref\BasicCalculator.dll
