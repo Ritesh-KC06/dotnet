@@ -1,0 +1,15 @@
+S:\ComputerScience\dotnetcsharp\dotnet\Shape\obj\Debug\net9.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+S:\ComputerScience\dotnetcsharp\dotnet\Shape\obj\Debug\net9.0\Shape.AssemblyInfoInputs.cache
+S:\ComputerScience\dotnetcsharp\dotnet\Shape\obj\Debug\net9.0\Shape.AssemblyInfo.cs
+S:\ComputerScience\dotnetcsharp\dotnet\Shape\obj\Debug\net9.0\Shape.csproj.CoreCompileInputs.cache
+S:\ComputerScience\dotnetcsharp\dotnet\Shape\obj\Debug\net9.0\Shape.sourcelink.json
+S:\ComputerScience\dotnetcsharp\dotnet\Shape\bin\Debug\net9.0\Shape.exe
+S:\ComputerScience\dotnetcsharp\dotnet\Shape\bin\Debug\net9.0\Shape.deps.json
+S:\ComputerScience\dotnetcsharp\dotnet\Shape\bin\Debug\net9.0\Shape.runtimeconfig.json
+S:\ComputerScience\dotnetcsharp\dotnet\Shape\bin\Debug\net9.0\Shape.dll
+S:\ComputerScience\dotnetcsharp\dotnet\Shape\bin\Debug\net9.0\Shape.pdb
+S:\ComputerScience\dotnetcsharp\dotnet\Shape\obj\Debug\net9.0\Shape.dll
+S:\ComputerScience\dotnetcsharp\dotnet\Shape\obj\Debug\net9.0\refint\Shape.dll
+S:\ComputerScience\dotnetcsharp\dotnet\Shape\obj\Debug\net9.0\Shape.pdb
+S:\ComputerScience\dotnetcsharp\dotnet\Shape\obj\Debug\net9.0\Shape.genruntimeconfig.cache
+S:\ComputerScience\dotnetcsharp\dotnet\Shape\obj\Debug\net9.0\ref\Shape.dll

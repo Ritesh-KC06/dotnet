@@ -1,0 +1,15 @@
+S:\ComputerScience\dotnetcsharp\dotnet\BookLibrary\bin\Debug\net9.0\BookLibrary.exe
+S:\ComputerScience\dotnetcsharp\dotnet\BookLibrary\bin\Debug\net9.0\BookLibrary.deps.json
+S:\ComputerScience\dotnetcsharp\dotnet\BookLibrary\bin\Debug\net9.0\BookLibrary.runtimeconfig.json
+S:\ComputerScience\dotnetcsharp\dotnet\BookLibrary\bin\Debug\net9.0\BookLibrary.dll
+S:\ComputerScience\dotnetcsharp\dotnet\BookLibrary\bin\Debug\net9.0\BookLibrary.pdb
+S:\ComputerScience\dotnetcsharp\dotnet\BookLibrary\obj\Debug\net9.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+S:\ComputerScience\dotnetcsharp\dotnet\BookLibrary\obj\Debug\net9.0\BookLibrary.AssemblyInfoInputs.cache
+S:\ComputerScience\dotnetcsharp\dotnet\BookLibrary\obj\Debug\net9.0\BookLibrary.AssemblyInfo.cs
+S:\ComputerScience\dotnetcsharp\dotnet\BookLibrary\obj\Debug\net9.0\BookLibrary.csproj.CoreCompileInputs.cache
+S:\ComputerScience\dotnetcsharp\dotnet\BookLibrary\obj\Debug\net9.0\BookLibrary.sourcelink.json
+S:\ComputerScience\dotnetcsharp\dotnet\BookLibrary\obj\Debug\net9.0\BookLibrary.dll
+S:\ComputerScience\dotnetcsharp\dotnet\BookLibrary\obj\Debug\net9.0\refint\BookLibrary.dll
+S:\ComputerScience\dotnetcsharp\dotnet\BookLibrary\obj\Debug\net9.0\BookLibrary.pdb
+S:\ComputerScience\dotnetcsharp\dotnet\BookLibrary\obj\Debug\net9.0\BookLibrary.genruntimeconfig.cache
+S:\ComputerScience\dotnetcsharp\dotnet\BookLibrary\obj\Debug\net9.0\ref\BookLibrary.dll

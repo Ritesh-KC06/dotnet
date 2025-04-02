@@ -1,0 +1,15 @@
+S:\ComputerScience\dotnetcsharp\dotnet\Employee\bin\Debug\net9.0\Employee.exe
+S:\ComputerScience\dotnetcsharp\dotnet\Employee\bin\Debug\net9.0\Employee.deps.json
+S:\ComputerScience\dotnetcsharp\dotnet\Employee\bin\Debug\net9.0\Employee.runtimeconfig.json
+S:\ComputerScience\dotnetcsharp\dotnet\Employee\bin\Debug\net9.0\Employee.dll
+S:\ComputerScience\dotnetcsharp\dotnet\Employee\bin\Debug\net9.0\Employee.pdb
+S:\ComputerScience\dotnetcsharp\dotnet\Employee\obj\Debug\net9.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+S:\ComputerScience\dotnetcsharp\dotnet\Employee\obj\Debug\net9.0\Employee.AssemblyInfoInputs.cache
+S:\ComputerScience\dotnetcsharp\dotnet\Employee\obj\Debug\net9.0\Employee.AssemblyInfo.cs
+S:\ComputerScience\dotnetcsharp\dotnet\Employee\obj\Debug\net9.0\Employee.csproj.CoreCompileInputs.cache
+S:\ComputerScience\dotnetcsharp\dotnet\Employee\obj\Debug\net9.0\Employee.sourcelink.json
+S:\ComputerScience\dotnetcsharp\dotnet\Employee\obj\Debug\net9.0\Employee.dll
+S:\ComputerScience\dotnetcsharp\dotnet\Employee\obj\Debug\net9.0\refint\Employee.dll
+S:\ComputerScience\dotnetcsharp\dotnet\Employee\obj\Debug\net9.0\Employee.pdb
+S:\ComputerScience\dotnetcsharp\dotnet\Employee\obj\Debug\net9.0\Employee.genruntimeconfig.cache
+S:\ComputerScience\dotnetcsharp\dotnet\Employee\obj\Debug\net9.0\ref\Employee.dll

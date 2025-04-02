@@ -1,0 +1,15 @@
+S:\ComputerScience\dotnetcsharp\dotnet\Object&Class_2\bin\Debug\net9.0\Object&Class_2.exe
+S:\ComputerScience\dotnetcsharp\dotnet\Object&Class_2\bin\Debug\net9.0\Object&Class_2.deps.json
+S:\ComputerScience\dotnetcsharp\dotnet\Object&Class_2\bin\Debug\net9.0\Object&Class_2.runtimeconfig.json
+S:\ComputerScience\dotnetcsharp\dotnet\Object&Class_2\bin\Debug\net9.0\Object&Class_2.dll
+S:\ComputerScience\dotnetcsharp\dotnet\Object&Class_2\bin\Debug\net9.0\Object&Class_2.pdb
+S:\ComputerScience\dotnetcsharp\dotnet\Object&Class_2\obj\Debug\net9.0\Object&Class_2.GeneratedMSBuildEditorConfig.editorconfig
+S:\ComputerScience\dotnetcsharp\dotnet\Object&Class_2\obj\Debug\net9.0\Object&Class_2.AssemblyInfoInputs.cache
+S:\ComputerScience\dotnetcsharp\dotnet\Object&Class_2\obj\Debug\net9.0\Object&Class_2.AssemblyInfo.cs
+S:\ComputerScience\dotnetcsharp\dotnet\Object&Class_2\obj\Debug\net9.0\Object&Class_2.csproj.CoreCompileInputs.cache
+S:\ComputerScience\dotnetcsharp\dotnet\Object&Class_2\obj\Debug\net9.0\Object&Class_2.sourcelink.json
+S:\ComputerScience\dotnetcsharp\dotnet\Object&Class_2\obj\Debug\net9.0\Object&Class_2.dll
+S:\ComputerScience\dotnetcsharp\dotnet\Object&Class_2\obj\Debug\net9.0\refint\Object&Class_2.dll
+S:\ComputerScience\dotnetcsharp\dotnet\Object&Class_2\obj\Debug\net9.0\Object&Class_2.pdb
+S:\ComputerScience\dotnetcsharp\dotnet\Object&Class_2\obj\Debug\net9.0\Object&Class_2.genruntimeconfig.cache
+S:\ComputerScience\dotnetcsharp\dotnet\Object&Class_2\obj\Debug\net9.0\ref\Object&Class_2.dll

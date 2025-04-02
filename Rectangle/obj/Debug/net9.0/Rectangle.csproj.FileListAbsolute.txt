@@ -1,0 +1,15 @@
+S:\ComputerScience\dotnetcsharp\dotnet\Rectangle\bin\Debug\net9.0\Rectangle.exe
+S:\ComputerScience\dotnetcsharp\dotnet\Rectangle\bin\Debug\net9.0\Rectangle.deps.json
+S:\ComputerScience\dotnetcsharp\dotnet\Rectangle\bin\Debug\net9.0\Rectangle.runtimeconfig.json
+S:\ComputerScience\dotnetcsharp\dotnet\Rectangle\bin\Debug\net9.0\Rectangle.dll
+S:\ComputerScience\dotnetcsharp\dotnet\Rectangle\bin\Debug\net9.0\Rectangle.pdb
+S:\ComputerScience\dotnetcsharp\dotnet\Rectangle\obj\Debug\net9.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+S:\ComputerScience\dotnetcsharp\dotnet\Rectangle\obj\Debug\net9.0\Rectangle.AssemblyInfoInputs.cache
+S:\ComputerScience\dotnetcsharp\dotnet\Rectangle\obj\Debug\net9.0\Rectangle.AssemblyInfo.cs
+S:\ComputerScience\dotnetcsharp\dotnet\Rectangle\obj\Debug\net9.0\Rectangle.csproj.CoreCompileInputs.cache
+S:\ComputerScience\dotnetcsharp\dotnet\Rectangle\obj\Debug\net9.0\Rectangle.sourcelink.json
+S:\ComputerScience\dotnetcsharp\dotnet\Rectangle\obj\Debug\net9.0\Rectangle.dll
+S:\ComputerScience\dotnetcsharp\dotnet\Rectangle\obj\Debug\net9.0\refint\Rectangle.dll
+S:\ComputerScience\dotnetcsharp\dotnet\Rectangle\obj\Debug\net9.0\Rectangle.pdb
+S:\ComputerScience\dotnetcsharp\dotnet\Rectangle\obj\Debug\net9.0\Rectangle.genruntimeconfig.cache
+S:\ComputerScience\dotnetcsharp\dotnet\Rectangle\obj\Debug\net9.0\ref\Rectangle.dll
